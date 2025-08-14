@@ -1,4 +1,4 @@
---1. Retrieve checkNumber, paymentDate, and amount from the payments table
+-- 1. Retrieve checkNumber, paymentDate, and amount from the payments table
 SELECT checkNumber, paymentDate, amount
 FROM payments;
 
